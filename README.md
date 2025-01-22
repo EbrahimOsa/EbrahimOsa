@@ -1,6 +1,6 @@
-[<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Sayed Ahmed Tag-Eldin</h2>
+[<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Ebrahim Osama </h2>
 
-<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast from Egypt 🌍</h3>
+<h3 align="center">🚀 front-end Software engineering 🌍</h3>
 
 ---
 
@@ -45,7 +45,6 @@
 ### 📈 My GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&langs_count=10" height="150" alt="Top Languages" />
 </div>
 
